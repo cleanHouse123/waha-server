@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
   whaha-server:
-    build: .
+    image: devlikeapro/waha
     container_name: whaha-server
     ports:
       - "3200:3000"  # Маппинг порта 3200 хоста на порт 3000 контейнера
