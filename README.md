@@ -44,4 +44,5 @@ docker run -d \
 ```env
 WAHA_API_URL=https://your-waha-domain.com
 WAHA_API_TOKEN=your-api-key
+
 ```
